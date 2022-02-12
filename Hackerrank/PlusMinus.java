@@ -8,6 +8,7 @@ public class PlusMinus {
         int positive = 0;
         int zero = 0;
         int negative = 0;
+        
         for (int i = 0; i < n; i++) {
             int a = array.nextInt();
             if (a > 0) {
