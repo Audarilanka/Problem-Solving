@@ -17,5 +17,6 @@ public static int problem(int a,int b)
         sum = a+b;
         
         System.out.println(sum);
+        x.close();
    }
 }
