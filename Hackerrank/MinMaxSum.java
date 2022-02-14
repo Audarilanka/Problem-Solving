@@ -18,5 +18,6 @@ public class MinMaxSum {
             y += n[i];
         }
         System.out.println(x + " " + y);
+        in.close();
     }
 }
