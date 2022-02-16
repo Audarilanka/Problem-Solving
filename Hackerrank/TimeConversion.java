@@ -18,6 +18,7 @@ public class TimeConversion {
         if( date != null ){
             String myDate = outFormat.format(date);
             System.out.println(myDate);
+            in.close();
         }
     }
 
