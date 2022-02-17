@@ -12,6 +12,8 @@ public class GradingStudents {
                 }
             }
             System.out.println(grade);
+            in.close();
         }
+
     }
 }
