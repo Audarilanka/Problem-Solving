@@ -27,5 +27,6 @@ public class SubarrayDivision {
                 ct++;
         }
         System.out.println(ct);
+        in.close();
     }
 }
