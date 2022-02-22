@@ -27,5 +27,6 @@ public class BetweenTwoSets {
             if (ok) cnt++;
         }
         System.out.println(cnt);
+        in.close();
     }
 }
