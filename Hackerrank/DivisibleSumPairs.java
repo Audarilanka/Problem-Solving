@@ -18,5 +18,6 @@ public class DivisibleSumPairs {
             }
         }
         System.out.println(cnt);
+        in.close();
     }
 }
