@@ -18,5 +18,6 @@ if(num==sum/2)
 System.out.println("Bon Appetit");
 else
 System.out.println(num-sum/2);
+sc.close();
 }
 }
