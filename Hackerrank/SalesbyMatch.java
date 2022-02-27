@@ -16,5 +16,6 @@ public class SalesbyMatch {
             total+=freq[i]/2;
         }
         System.out.println(total);
+        s.close();
     }
 }
