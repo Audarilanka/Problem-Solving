@@ -20,6 +20,7 @@ public class CompareTriplets {
             else if(alice[i]<bob[i])
                 b++;
         System.out.println(a+" "+b);
+        in.close();
        
     }
 }
