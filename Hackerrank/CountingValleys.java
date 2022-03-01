@@ -20,5 +20,6 @@ public class CountingValleys {
             }
         }
         System.out.println(valleys);
+        in.close();
     }
 }
