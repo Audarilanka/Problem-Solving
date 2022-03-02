@@ -25,6 +25,7 @@ public class ElectronicsShop {
             }
         }
         System.out.println(ans);
+        in.close();
         
     }
 }
