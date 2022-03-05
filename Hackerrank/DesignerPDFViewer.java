@@ -1,11 +1,8 @@
 import java.io.*;
 import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
-import java.util.stream.*;
 
-public class Solution {
+
+public class DesignerPDFViewer {
 
   public static void main(String[] args) {
     Scanner in = new Scanner(System.in);
