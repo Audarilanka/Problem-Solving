@@ -1,4 +1,3 @@
-import java.io.*;
 import java.util.*;
 
 
@@ -16,6 +15,7 @@ public class DesignerPDFViewer {
       if (c[letter - 'a'] > maxH) maxH = c[letter - 'a'];
     }
     System.out.println(maxH*w.length());
+    in.close();
   }
 
 
