@@ -12,7 +12,7 @@ public class NumberLineJumps {
         int vdiff = v1 - v2;
         if (vdiff <= 0) {
             System.out.println("NO");
-            return;
+            
         }
         int xdiff = x1 - x2;
         System.out.println(xdiff % vdiff == 0 ? "YES" : "NO");
