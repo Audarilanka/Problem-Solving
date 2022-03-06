@@ -7,7 +7,7 @@ public class DesignerPDFViewer {
     Scanner in = new Scanner(System.in);
     int[] c = new int[26];
     for (int i = 0; i < 26; ++i) {
-      c[i] = in.nextInt();
+      int[i] = in.nextInt();
     }
     String w = in.next();
     int maxH = 0;
