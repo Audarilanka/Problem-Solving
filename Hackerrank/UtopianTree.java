@@ -24,6 +24,7 @@ public class UtopianTree {
                 }
             }
             System.out.println(treeHeight);
+            input.close();
         }
     }
 }
