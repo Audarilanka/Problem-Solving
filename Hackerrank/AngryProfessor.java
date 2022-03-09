@@ -4,7 +4,7 @@ import java.util.*;
 public class AngryProfessor {
 
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+        
         Scanner scan=new Scanner(System.in);
 		int T= scan.nextInt();
 		for(int i=0; i<T; i++){
@@ -17,6 +17,7 @@ public class AngryProfessor {
 			}
 			if(numofstudents < K) System.out.println("YES");
 			else System.out.println("NO");
+            scan.close();
     }
 }
 }
