@@ -20,6 +20,6 @@ public class HurdleRace {
         else{
                 System.out.println(max-k);
         
-         }
+         }in.close();
 }
 }
