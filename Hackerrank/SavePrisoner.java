@@ -15,6 +15,7 @@ public class SavePrisoner {
             next=(next-1)%N;
             if(next == 0)next = N;
             System.out.println(next);
+            scan.close();
         }
     }
 }
