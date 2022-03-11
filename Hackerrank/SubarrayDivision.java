@@ -13,7 +13,7 @@ public class SubarrayDivision {
         // your code goes here
         if(m>n){
             System.out.println(0);
-            return;
+      
         }
         int ct = 0;
         int sum = 0;
