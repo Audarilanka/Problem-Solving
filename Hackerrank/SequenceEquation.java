@@ -14,6 +14,7 @@ public class SequenceEquation {
                   for(int k=0;k<n;k++)  {
                       if((j+1)==a[k])
                           System.out.println(k+1);
+                          in.close();
                   }
                 }
             }
