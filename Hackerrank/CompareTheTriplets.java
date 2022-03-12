@@ -7,7 +7,7 @@ public class CompareTheTriplets {
     private StringTokenizer line;
     private PrintWriter out;
 
-    private static final int mm = 1000000007;
+    private static final int MM = 1000000007;
 
     public void solve() throws IOException {
         int[] x = nextIntArray(3);
