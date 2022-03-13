@@ -23,6 +23,7 @@ public class CompareTheTriplets {
             }
         }
         System.out.println(beautifulDays);
-        
+        input.close();
+
     }
 }
