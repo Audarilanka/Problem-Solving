@@ -11,12 +11,11 @@ public class DesignerPDFViewer {
     String w = in.next();
     int maxH = 0;
     for (char letter : w.toCharArray()) {
-      if (c[letter - 'a'] > maxH) maxH = c[letter - 'a'];
+      if (c[letter - 'a'] > maxH)
+        maxH = c[letter - 'a'];
     }
-    System.out.println(maxH*w.length());
+    System.out.println(maxH * w.length());
     in.close();
   }
-
-
 
 }
