@@ -1,4 +1,5 @@
 import java.util.*;
+
 public class HurdleRace {
 
     public static void main(String[] args) {
@@ -7,19 +8,20 @@ public class HurdleRace {
         int k = in.nextInt();
         int[] height = new int[n];
         int max = 0;
-        for(int height_i=0; height_i < n; height_i++){
+        for (int height_i = 0; height_i < n; height_i++) {
             height[height_i] = in.nextInt();
-            if ( height[height_i] > max){
-                max = height[height_i] ;
+            if (height[height_i] > max) {
+                max = height[height_i];
             }
         }
-        if(k >= max){
+        if (k >= max) {
             System.out.println("0");
-                    }
-       
-        else{
-                System.out.println(max-k);
-        
-         }in.close();
-}
+        }
+
+        else {
+            System.out.println(max - k);
+
+        }
+        in.close();
+    }
 }
