@@ -3,7 +3,7 @@ import java.util.*;
 import java.text.*;
 import java.math.*;
 import java.util.*;
-public class Solution {
+public class RepeatedString {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         String s = in.next();
