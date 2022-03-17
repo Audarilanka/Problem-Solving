@@ -16,5 +16,6 @@ public class RepeatedString {
             }
         }
         System.out.println(ans);
+        in.close();
     }
 }
