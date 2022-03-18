@@ -35,5 +35,7 @@ public class LibraryFine {
         }
         
         System.out.println(hackosFine);
+        input.close();
+        
     }
 }
