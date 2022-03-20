@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class BeautifulDays  {
 
     public static void main(String[] args) {
