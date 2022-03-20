@@ -6,6 +6,7 @@ public class AppendandDelete {
         String s = in.next();
         String t = in.next();
         int k = in.nextInt();
+        in.close();
         
       int sl=s.length();int tl=t.length();
         int ll=sl>tl?tl:sl;
@@ -32,6 +33,7 @@ public class AppendandDelete {
             System.out.println("Yes");
         else 
             System.out.println("No");
+
            
            
            
