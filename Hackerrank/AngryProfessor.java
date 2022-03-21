@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class AngryProfessor {
 
 	public static void main(String[] args) {
@@ -20,7 +19,7 @@ public class AngryProfessor {
 			else
 				System.out.println("NO");
 			scan.close();
-			
+
 		}
 	}
 }
