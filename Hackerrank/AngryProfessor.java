@@ -20,6 +20,7 @@ public class AngryProfessor {
 			else
 				System.out.println("NO");
 			scan.close();
+			
 		}
 	}
 }
