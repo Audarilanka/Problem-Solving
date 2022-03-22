@@ -1,4 +1,5 @@
 import java.util.*;
+
 public class AngryProfessor {
 
 	public static void main(String[] args) {
