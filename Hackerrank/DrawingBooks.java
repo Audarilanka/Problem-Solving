@@ -1,6 +1,5 @@
 import java.util.*;
 
-
 public class DrawingBooks {
 
     public static void main(String[] args) {
