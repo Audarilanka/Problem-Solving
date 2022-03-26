@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class CatsandAMouse {
 
     public static void main(String[] args) {
