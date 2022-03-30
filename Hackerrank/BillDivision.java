@@ -18,5 +18,6 @@ public class BillDivision {
         else
             System.out.println(num - sum / 2);
         sc.close();
+        
     }
 }
