@@ -10,6 +10,7 @@ public class FindDigits {
       if (r != 0 && num % r == 0) count++;
       n = n / 10;
     }
+    
     return count;
   }
 
