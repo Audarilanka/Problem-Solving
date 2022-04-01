@@ -1,7 +1,6 @@
 import java.util.*;
 public class BillDivision {
-    
-    
+        
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
@@ -13,7 +12,7 @@ public class BillDivision {
             if (i != k) {
                 sum += a[i];
             }
-            
+
         }
         int num = sc.nextInt();
         if (num == sum / 2)
