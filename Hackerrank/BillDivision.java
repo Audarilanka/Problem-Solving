@@ -14,6 +14,7 @@ public class BillDivision {
             }
 
         }
+        
         int num = sc.nextInt();
         if (num == sum / 2)
             System.out.println("Bon Appetit");
