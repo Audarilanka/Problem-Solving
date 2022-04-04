@@ -26,7 +26,6 @@ public class AppleAndOrange {
                 or++;
             }
         }
-        
         System.out.println(ap);
         System.out.println(or);
         in.close();
