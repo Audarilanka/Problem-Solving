@@ -19,7 +19,7 @@ public class AngryProfessor {
 				System.out.println("YES");
 			else
 				System.out.println("NO");
-			scan.close();
+			// scan.close();
 
 		}
 	}
