@@ -15,11 +15,12 @@ public class AngryProfessor {
 				if (a <= 0)
 					numofstudents++;
 			}
+
 			if (numofstudents < K)
 				System.out.println("YES");
 			else
 				System.out.println("NO");
-			// scan.close();
+			scan.close();
 
 		}
 	}
