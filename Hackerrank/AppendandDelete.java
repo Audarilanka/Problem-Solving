@@ -6,7 +6,7 @@ public class AppendandDelete {
         String s = in.next();
         String t = in.next();
         int k = in.nextInt();
-        in.close();
+        // in.close();
 
         int sl = s.length();
         int tl = t.length();
