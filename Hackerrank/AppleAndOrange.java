@@ -12,6 +12,7 @@ public class AppleAndOrange {
         int n = in.nextInt();
         int[] apple = new int[m];
         int ap = 0;
+
         for (int apple_i = 0; apple_i < m; apple_i++) {
             apple[apple_i] = in.nextInt();
             if (a + apple[apple_i] >= s && a + apple[apple_i] <= t) {
