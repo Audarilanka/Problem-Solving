@@ -19,6 +19,7 @@ public class AppleAndOrange {
                 ap++;
             }
         }
+
         int[] orange = new int[n];
         int or = 0;
         for (int orange_i = 0; orange_i < n; orange_i++) {
@@ -29,6 +30,6 @@ public class AppleAndOrange {
         }
         System.out.println(ap);
         System.out.println(or);
-        in.close();
+        // in.close();
     }
 }
