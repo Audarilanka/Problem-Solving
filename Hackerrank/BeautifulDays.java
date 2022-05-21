@@ -19,6 +19,6 @@ public class BeautifulDays {
             }
         }
         System.out.println(beautifulDays);
-        // input.close();
+        input.close();
     }
 }
