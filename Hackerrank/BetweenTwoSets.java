@@ -10,6 +10,7 @@ public class BetweenTwoSets {
         for (int i = 0; i < n; i++) {
             A[i] = in.nextInt();
         }
+
         int[] B = new int[m];
         for (int i = 0; i < m; i++) {
             B[i] = in.nextInt();
