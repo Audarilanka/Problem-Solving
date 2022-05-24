@@ -13,9 +13,7 @@ public class BillDivision {
             if (i != k) {
                 sum += a[i];
             }
-
         }
-
         int num = sc.nextInt();
         if (num == sum / 2)
             System.out.println("Bon Appetit");
