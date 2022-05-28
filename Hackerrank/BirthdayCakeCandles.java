@@ -20,6 +20,5 @@ public class BirthdayCakeCandles {
         }
         System.out.println(sum);
         in.close();
-
     }
 }
