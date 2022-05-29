@@ -9,7 +9,7 @@ public class BreakingTheRecords {
             a[i] = in.nextInt();
         int min = a[0];
         int max = a[0];
-        int res1 = 0, res2 =0;
+        int res1 = 0, res2 = 0;
         for (int i = 1; i < n; i++) {
             if (a[i] > max) {
                 res1++;
@@ -20,7 +20,7 @@ public class BreakingTheRecords {
                 min = a[i];
             }
         }
-        System.out.println(res1 + " "+ res2);
-        in.close();
+        System.out.println(res1 + " " + res2);
+        // in.close();
     }
 }
