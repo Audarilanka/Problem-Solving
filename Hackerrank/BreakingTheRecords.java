@@ -23,6 +23,6 @@ public class BreakingTheRecords {
             }
         }
         System.out.println(res1 + " " + res2);
-        // in.close();
+        in.close();
     }
 }
