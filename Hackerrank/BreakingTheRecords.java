@@ -11,6 +11,7 @@ public class BreakingTheRecords {
         int min = a[0];
         int max = a[0];
         int res1 = 0, res2 = 0;
+
         for (int i = 1; i < n; i++) {
             if (a[i] > max) {
                 res1++;
