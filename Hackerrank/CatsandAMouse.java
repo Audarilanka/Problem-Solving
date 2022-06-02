@@ -4,7 +4,7 @@ public class CatsandAMouse {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int q = in.nextInt();
-        in.close();
+        // in.close();
 
         for (int a0 = 0; a0 < q; a0++) {
 
