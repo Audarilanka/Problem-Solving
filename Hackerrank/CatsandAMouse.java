@@ -20,7 +20,6 @@ public class CatsandAMouse {
                 System.out.println("Cat A");
             } else {
                 System.out.println("Cat B");
-
             }
 
         }
