@@ -21,7 +21,6 @@ public class CatsandAMouse {
             } else {
                 System.out.println("Cat B");
             }
-
         }
     }
 }
