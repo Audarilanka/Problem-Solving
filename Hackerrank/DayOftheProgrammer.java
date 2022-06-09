@@ -21,7 +21,7 @@ public class DayOftheProgrammer {
                     System.out.println("12.09." + y);
                 } else {
                     System.out.println("13.09." + y);
-                    // in.close();
+                    in.close();
                 }
             }
         }
