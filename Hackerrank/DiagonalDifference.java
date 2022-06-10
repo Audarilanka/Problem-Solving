@@ -29,6 +29,6 @@ public class DiagonalDifference {
         int dif = y - x;
         dif = Math.abs(dif);
         System.out.println(dif);
-        numbers.close();
+        // numbers.close();
     }
 }
