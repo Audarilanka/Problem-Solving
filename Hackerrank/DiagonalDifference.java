@@ -3,6 +3,7 @@ import java.util.*;
 public class DiagonalDifference {
 
     public static void main(String[] args) {
+
         int n;
         Scanner numbers = new Scanner(System.in);
         n = numbers.nextInt();
