@@ -18,7 +18,6 @@ public class HurdleRace {
             System.out.println("0");
         } else {
             System.out.println(max - k);
-
         }
         in.close();
     }
