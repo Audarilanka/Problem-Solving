@@ -17,6 +17,6 @@ public class MigratoryBirds {
             }
         }
         System.out.println(id);
-        // in.close();
+        in.close();
     }
 }
